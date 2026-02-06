@@ -1,3 +1,6 @@
 {
-    "prisma.pinToPrisma6": true
+    "prisma.pinToPrisma6": true,
+    "github.copilot.nextEditSuggestions.allowWhitespaceOnlyChanges": false,
+    "github.copilot.nextEditSuggestions.enabled": false,
+    "editor.inlineSuggest.edits.showLongDistanceHint": false
 }

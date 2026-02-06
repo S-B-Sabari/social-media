@@ -90,7 +90,7 @@ const Marketplace = () => {
       {showFilterPhone && (
         <div
           onClick={() => setShowFilterPhone(false)}
-          className="fixed inset-0 bg-black/40 z-[90] sm:hidden"
+          className="fixed inset-0 bg-black/40 z:[90] sm:hidden"
         />
       )}
 
